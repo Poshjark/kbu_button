@@ -33,13 +33,13 @@ This repository contains two versions of the code:
 
 This version is based on the classic microcontroller approach with polling for button state. The code continuously checks if the button is pressed and performs corresponding actions.
 
-**Code Path:** [`classic_version`](https://github.com/Poshjark/kbu_key/tree/main/src/loop_based)
+**Code Path:** [`classic_version`](https://github.com/Poshjark/kbu_button/tree/main/src/loop_based)
 
 ### Hardware Interrupts
 
 This version uses hardware interrupts to handle button presses. This allows for more efficient use of microcontroller resources and real-time event response.
 
-**Code Path:** [`interrupt_version`](https://github.com/Poshjark/kbu_key/tree/main/src/interrupt_based)
+**Code Path:** [`interrupt_version`](https://github.com/Poshjark/kbu_button/tree/main/src/interrupt_based)
 
 ## Usage
 

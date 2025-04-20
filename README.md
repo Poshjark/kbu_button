@@ -1,4 +1,4 @@
-# kbu_key
+# "КБУ?" button project
 
 Welcome to the "КБУ?" button project repository! This project is a simple device that allows users to easily initiate the process of obtaining information or remind the team of important questions with the press of a button.
 

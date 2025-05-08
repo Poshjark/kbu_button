@@ -1,6 +1,6 @@
 # "КБУ?" button project
 
-Welcome to the "КБУ?" button project repository! This project is a simple device that allows users to easily initiate the process of obtaining information or remind the team of important questions with the press of a button.
+Welcome to the "КБУ?" button project repository! This project is a simple device that allows users to easily initiate the process of obtaining information about deadlines or remind the team of important questions with simple press of a button.
 
 ## Table of Contents
 
@@ -15,7 +15,7 @@ Welcome to the "КБУ?" button project repository! This project is a simple dev
 
 ## Description
 
-The "KBU Button?" project implements functionality that allows users to interact with the device through a simple button press. This project can be useful in various scenarios, including workflows, team meetings, and other situations where quick attention is required.
+The "КБУ Button?" project implements functionality that allows users to interact with the device through a simple button press. This project can be useful in various scenarios, including workflows, team meetings, and other situations where quick attention is required.
 
 ## Installation
 
@@ -47,7 +47,7 @@ After uploading the code to the board, you can use the button as follows:
 
 1. Raise your hand and clench it into a fist.
 2. Press the button.
-3. A message "KBU?" will appear on your device screen, initiating the process of obtaining information.
+3. A message "КБУ?" will appear in your device output stream.
 
 ## Contributing
 
@@ -59,4 +59,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Thank you for your interest in the "KBU Button?" project! If you have any questions or suggestions, feel free to reach out!
+Thank you for your interest in this project! If you have any questions or suggestions, feel free to reach out!
